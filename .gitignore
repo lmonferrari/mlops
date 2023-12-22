@@ -3,3 +3,5 @@ mlruns/*
 *.yaml
 mlartifacts/*
 models/*
+.vscode/*
+```
